@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+planner.db
+.DS_Store
+.pytest_cache/
+.streamlit/
+*.log
+.env
+.vscode/
