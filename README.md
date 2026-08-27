@@ -90,3 +90,5 @@ pytest test_scheduler.py -v
   app.
 - Energy windows and commitments are entered manually each time; a nice
   extension would be saving a default day layout.
+
+https://github.com/user-attachments/assets/1e760ea6-3302-45ec-8dfb-2582d66b918f
